@@ -1,1 +1,1 @@
-Integrating a simple API (viacep) with Feign and RestTemplate
+Creating a simple API integration with 2 types, Feign and RestTemplate.
