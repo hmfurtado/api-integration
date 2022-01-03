@@ -1,4 +1,4 @@
-package com.example.demo.restController;
+package com.example.demo.restTemplate;
 
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
