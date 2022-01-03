@@ -1,4 +1,4 @@
-package com.example.demo.restController;
+package com.example.demo.restTemplate;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.MediaType;
